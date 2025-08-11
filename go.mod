@@ -1,3 +1,3 @@
-module github.com/thrownfootfalls/docker_test
+module github.com/thrownfootfalls/goserver
 
 go 1.24.4
